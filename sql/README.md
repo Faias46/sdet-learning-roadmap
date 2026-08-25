@@ -1,0 +1,2 @@
+MYSQL notes and practice
+
