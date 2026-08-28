@@ -24,17 +24,12 @@ It is a part of software development process
 
 Example: process of software testing
 
-x-bank (customer)   
-   |
- IT company     requirement given to the customer as per client 
-   |
-Develop         as per client develop the software
-    |
-  Test                test the software without any bugs
-    |
-Deliver           as per requirement the software will delivered
-     |
- x-bank         finally  the software will given to the customer
+1. x-bank (customer)   
+2. IT company (requirement given to the customer)     
+3. Develop (as per requirement develop the software)        
+4. Test (test the software)               
+5. Deliver ( deliver proper working software as per customer requirement)           
+6. x-bank          
 
 
 
